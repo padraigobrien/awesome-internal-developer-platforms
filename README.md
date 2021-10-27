@@ -2,10 +2,10 @@
 
 ## Platforms
 
-[Backstage](https://backstage.io)
-[Cosmos][https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad]
-[Kosmos](https://usekosmos.com/)
-[effx](https://effx.com/)
+- [Backstage](https://backstage.io)
+- [Cosmos][https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad]
+- [Kosmos](https://usekosmos.com/)
+- [effx](https://effx.com/)
 
 
 
