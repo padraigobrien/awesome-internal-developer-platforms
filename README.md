@@ -12,6 +12,9 @@
 
 
 ## Articles
+- [Product for internal platforms](https://skamille.medium.com/product-for-internal-platforms-9205c3a08142)
+- [Product managment infra engineering](https://lethain.com/product-management-infra-engineering/)
+- [Netflix Platform Solutions ](https://docs.google.com/presentation/d/194AAf3csXCNN3HgNyOYiXFrWl44jU7rK88CltprnB9k/edit#slide=id.g8ea76379b_2192)
 - [Developer Portals are an anti pattern](https://www.lastweekinaws.com/blog/developer-portals-are-an-anti-pattern/)
 - [Developer Portals — A Primer](https://medium.com/memory-leak/developer-portals-a-primer-3d189d061e9a)
 - [Thechief.io What is an internal developer platform](https://thechief.io/c/editorial/what-is-an-internal-developer-platform/)
