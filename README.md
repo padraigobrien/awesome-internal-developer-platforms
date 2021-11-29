@@ -3,7 +3,7 @@
 ## Platforms
 
 - [Backstage](https://backstage.io)
-- [clutch](https://github.com/lyft/clutch)
+- [Clutch](https://github.com/lyft/clutch)
 - [DevOpsBox](https://www.devopsbox.io)
 - [Upbound](https://www.upbound.io/)
 - [Cosmos](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
