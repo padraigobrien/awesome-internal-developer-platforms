@@ -9,6 +9,7 @@
 - [Cosmos](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 - [Kosmos](https://usekosmos.com/)
 - [effx](https://effx.com/)
+- [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes dashboard with AI-powered operations, CNCF project integrations, and real-time observability across edge and cloud clusters.
 
 
 
